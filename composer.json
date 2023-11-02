@@ -1,0 +1,10 @@
+{
+    "name": "ivan/hexphp",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "Ivan@ya.ru"
+        }
+    ],
+    "require": {}
+}
